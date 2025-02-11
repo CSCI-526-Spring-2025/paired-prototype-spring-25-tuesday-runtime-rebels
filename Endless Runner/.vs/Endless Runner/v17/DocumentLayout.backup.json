@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleCameraFollow.cs",
               "ToolTip": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\SimpleCameraFollow.cs",
               "RelativeToolTip": "Assets\\Scripts\\SimpleCameraFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T06:29:06.514Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T06:26:01.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T06:26:01.659Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Assets\\Scripts\\EndlessGround.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAIwEIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T05:57:26.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T05:57:26.406Z"
             }
           ]
         }

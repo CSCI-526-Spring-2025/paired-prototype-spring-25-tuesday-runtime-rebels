@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|d:\\masters study\\sem 4\\runtime rebels\\endless runner\\assets\\scripts\\simplecamerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplecamerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|d:\\masters study\\sem 4\\runtime rebels\\endless runner\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|d:\\masters study\\sem 4\\runtime rebels\\endless runner\\assets\\scripts\\twoplayermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\twoplayermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\assets\\scripts\\endlessground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endlessground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\SimpleCameraMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SimpleCameraMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|d:\\masters study\\sem 4\\runtime rebels\\endless runner\\assets\\scripts\\simplecamerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplecamerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,48 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SimpleCameraFollow.cs",
-              "DocumentMoniker": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\SimpleCameraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleCameraFollow.cs",
-              "ToolTip": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\SimpleCameraFollow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SimpleCameraFollow.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T06:29:06.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T06:26:01.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimpleCameraMover.cs",
-              "DocumentMoniker": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\SimpleCameraMover.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleCameraMover.cs",
-              "ToolTip": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\SimpleCameraMover.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SimpleCameraMover.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T06:07:22.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "EndlessGround.cs",
               "DocumentMoniker": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\EndlessGround.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EndlessGround.cs",
@@ -75,7 +38,48 @@
               "RelativeToolTip": "Assets\\Scripts\\EndlessGround.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAIwEIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T05:57:26.406Z"
+              "WhenOpened": "2025-02-11T05:57:26.406Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:47:03.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwoPlayerManager.cs",
+              "DocumentMoniker": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\TwoPlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TwoPlayerManager.cs",
+              "ToolTip": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\TwoPlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TwoPlayerManager.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:21:57.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleCameraFollow.cs",
+              "DocumentMoniker": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\SimpleCameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleCameraFollow.cs",
+              "ToolTip": "D:\\Masters Study\\Sem 4\\Runtime Rebels\\Endless Runner\\Assets\\Scripts\\SimpleCameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleCameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:29:06.514Z",
+              "EditorCaption": ""
             }
           ]
         }

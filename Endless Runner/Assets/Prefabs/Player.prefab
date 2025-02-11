@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5290721372092191213}
   - component: {fileID: 8039879739883679321}
   - component: {fileID: 1638842800552406491}
-  - component: {fileID: 7882998908636066030}
+  - component: {fileID: 2442715833196247333}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -106,7 +106,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &7882998908636066030
+--- !u!114 &2442715833196247333
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -118,6 +118,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a02354c6388e19e4db413ba7201e7d80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forwardSpeed: 10
-  laneSwitchSpeed: 5
-  laneDistance: 2
+  moveSpeed: 10
