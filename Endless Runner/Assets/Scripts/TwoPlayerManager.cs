@@ -121,6 +121,19 @@ public class TwoPlayerManager : MonoBehaviour
             StartCoroutine(Jump(player1));
             StartCoroutine(Crouch(player2));
         }
+
+        // Process Left Shift key press to swap positions
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            // Swap lane values
+            int tempLane = laneP1;
+            laneP1 = laneP2;
+            laneP2 = tempLane;
+
+            // Swap player positions
+            UpdatePlayerPosition(player1, laneP1);
+            UpdatePlayerPosition(player2, laneP2);
+        }
     }
 
     void UpdatePlayerPosition(GameObject player, int laneNumber)
