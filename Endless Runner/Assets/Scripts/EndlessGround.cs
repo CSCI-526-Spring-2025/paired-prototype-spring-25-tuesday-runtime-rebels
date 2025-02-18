@@ -83,6 +83,13 @@ public class EndlessGround : MonoBehaviour
         firstSegment.transform.position = new Vector3(0, 0, spawnZ);
         segments[numberOfSegments - 1] = firstSegment;
 
+        // Obstacle Spawning
+        ObstacleSpawner spawner = firstSegment.GetComponent<ObstacleSpawner>();
+        if (spawner != null)
+        {
+            spawner.SpawnNewObstacles();
+        }
+
         // Update the next spawn position.
         spawnZ += segmentLength;
     }
